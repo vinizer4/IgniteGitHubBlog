@@ -64,4 +64,4 @@ npm run start
 
 
 
-👉 Visit my linkedin: https://www.linkedin.com/in/pedrovdf/
+👉 Visit my linkedin: https://www.linkedin.com/in/vinicius-teixeira-saraiva/
