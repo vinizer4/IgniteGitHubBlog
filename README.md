@@ -37,3 +37,4 @@ npm run start
 
 
 👉 Visit my linkedin: https://www.linkedin.com/in/vinicius-teixeira-saraiva/
+👉 Visit the blog: https://ignite-git-hub-blog.vercel.app/
