@@ -6,6 +6,8 @@ We built a Simple Github Blog, to train our fundamentals about React and to test
 
 It is totally responsive, so try to access in your phone too
 
+<img width="597" alt="image" src="https://user-images.githubusercontent.com/85684965/213354520-107550a7-3886-4542-a4de-ecdf2427bb3f.png">
+
 
 ## ▶ How to start project
 
@@ -31,10 +33,10 @@ npm run start
 ### ✔ You can:
 - See all Post from My Repo
 - See the details from The Post that you clicked
-  - See the body from a Markdown Type
+ - See the body from a Markdown Type
 
 
 
 
-👉 Visit my linkedin: https://www.linkedin.com/in/vinicius-teixeira-saraiva/
-👉 Visit the blog: https://ignite-git-hub-blog.vercel.app/
+- 👉 Visit my linkedin: https://www.linkedin.com/in/vinicius-teixeira-saraiva/
+- 👉 Visit the blog: https://ignite-git-hub-blog.vercel.app/
